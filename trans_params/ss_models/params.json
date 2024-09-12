@@ -1,0 +1,15 @@
+{
+  "local_cnn_dims": 30,
+  "mlp_hid_dim1": 30,
+  "mlp_hid_dim2": 30,
+  "local_points": 8,
+  "num_temp": 4,
+  "num_nwp": 6,
+  "num_epochs": 200,
+  "lr": 1e-3,
+  "q": 19,
+  "gap": 0.0005,
+  "batch_size": 1024,
+  "weights": 0,
+  "alpha": 0.8
+}
